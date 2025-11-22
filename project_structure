@@ -1,0 +1,11 @@
+Test run/
+├── src/
+│   ├── constants/
+│   │   └── GridConstants.java
+│   ├── utils/
+│   │   └── GridUtils.java
+│   ├── grid/
+│   │   └── MovesManager.java
+│   ├── pathfinding/
+│   │   └── PathFinderTask.java
+│   └── Main.java 
